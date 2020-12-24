@@ -1,0 +1,107 @@
+classification;year;period;period_desc;aggregate_level;is_leaf_code;trade_flow_code;trade_flow;reporter_code;reporter;reporter_iso;partner_code;partner;partner_iso;second_partner_code;second_partner;second_partner_iso;customs_proc_code;customs;mode_of_transport_code;mode_of_transport;commodity_code;commodity;qty_unit_code;qty_unit;alt_qty_unit_code;alt_qty_unit;qty;alt_qty;netweight_kg;gross_weight_kg;trade_value_usd;cif_trade_value_usd;fob_trade_value_usd;flag
+H0;1992;1992;1992;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;   7502785;NA;NA;0
+H0;1992;1992;1992;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 275412064;NA;NA;0
+H0;1992;1992;1992;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;     16430;NA;NA;0
+H0;1992;1992;1992;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 153707584;NA;NA;0
+H0;1993;1993;1993;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;   4004786;NA;NA;0
+H0;1993;1993;1993;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 265164912;NA;NA;0
+H0;1993;1993;1993;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;       812;NA;NA;0
+H0;1993;1993;1993;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 214813200;NA;NA;0
+H0;1994;1994;1994;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;  10005683;NA;NA;0
+H0;1994;1994;1994;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 235020112;NA;NA;0
+H0;1994;1994;1994;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;    270790;NA;NA;0
+H0;1994;1994;1994;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 360908832;NA;NA;0
+H0;1995;1995;1995;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;  14460378;NA;NA;0
+H0;1995;1995;1995;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 312591008;NA;NA;0
+H0;1995;1995;1995;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;    169500;NA;NA;0
+H0;1995;1995;1995;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 331665888;NA;NA;0
+H0;1996;1996;1996;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;  12415736;NA;NA;0
+H0;1996;1996;1996;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 455671008;NA;NA;0
+H0;1996;1996;1996;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;    273357;NA;NA;0
+H0;1996;1996;1996;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 237415808;NA;NA;0
+H1;1997;1997;1997;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;   9288823;NA;NA;0
+H1;1997;1997;1997;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 443446112;NA;NA;0
+H1;1997;1997;1997;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;     89714;NA;NA;0
+H1;1997;1997;1997;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 264119200;NA;NA;0
+H1;1998;1998;1998;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;  14725088;NA;NA;0
+H1;1998;1998;1998;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 550669824;NA;NA;0
+H1;1998;1998;1998;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;    369017;NA;NA;0
+H1;1998;1998;1998;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 303220320;NA;NA;0
+H1;1999;1999;1999;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;  29590813;NA;NA;0
+H1;1999;1999;1999;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 438317282;NA;NA;0
+H1;1999;1999;1999;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;   3508739;NA;NA;0
+H1;1999;1999;1999;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 465343113;NA;NA;0
+H1;2000;2000;2000;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;  57971000;NA;NA;0
+H1;2000;2000;2000;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 406094789;NA;NA;0
+H1;2000;2000;2000;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;   5508712;NA;NA;0
+H1;2000;2000;2000;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 349610408;NA;NA;0
+H1;2001;2001;2001;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;  86344471;NA;NA;0
+H1;2001;2001;2001;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 314345421;NA;NA;0
+H1;2001;2001;2001;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;   5069532;NA;NA;0
+H1;2001;2001;2001;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 188473598;NA;NA;0
+H2;2002;2002;2002;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;  85408303;NA;NA;0
+H2;2002;2002;2002;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 276541093;NA;NA;0
+H2;2002;2002;2002;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;   7717040;NA;NA;0
+H2;2002;2002;2002;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 193810867;NA;NA;0
+H2;2003;2003;2003;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;  84645527;NA;NA;0
+H2;2003;2003;2003;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 302886591;NA;NA;0
+H2;2003;2003;2003;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;  11547843;NA;NA;0
+H2;2003;2003;2003;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 235970086;NA;NA;0
+H2;2004;2004;2004;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 107580129;NA;NA;0
+H2;2004;2004;2004;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 260490170;NA;NA;0
+H2;2004;2004;2004;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;  23499430;NA;NA;0
+H2;2004;2004;2004;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 359817146;NA;NA;0
+H2;2005;2005;2005;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 136026367;NA;NA;0
+H2;2005;2005;2005;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 324536213;NA;NA;0
+H2;2005;2005;2005;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;  19727860;NA;NA;0
+H2;2005;2005;2005;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 408675300;NA;NA;0
+H2;2006;2006;2006;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 192055368;NA;NA;0
+H2;2006;2006;2006;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 342292119;NA;NA;0
+H2;2006;2006;2006;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA;  35505488;NA;NA;0
+H2;2006;2006;2006;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;ALL COMMODITIES;1;No Quantity;NA;NA;NA;NA;NA;NA; 413801341;NA;NA;0
+H3;2007;2007;2007;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA;NA;NA;NA;NA; 267189731;NA;NA;0
+H3;2007;2007;2007;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA;NA;NA;NA;NA; 411795800;NA;NA;0
+H3;2007;2007;2007;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA;NA;NA;NA;NA;  55972313;NA;NA;0
+H3;2007;2007;2007;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA;NA;NA;NA;NA; 412981741;NA;NA;0
+H3;2008;2008;2008;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA;NA;NA;NA;NA; 415442562;NA;NA;0
+H3;2008;2008;2008;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA;NA;NA;NA;NA; 525428091;NA;NA;0
+H3;2008;2008;2008;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA;NA;NA;NA;NA; 129381109;NA;NA;0
+H3;2008;2008;2008;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA;NA;NA;NA;NA; 479077128;NA;NA;0
+H3;2009;2009;2009;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA;NA;NA;NA;NA; 371225590;NA;NA;0
+H3;2009;2009;2009;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA;NA;NA;NA;NA; 588252096;NA;NA;0
+H3;2009;2009;2009;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA;NA;NA;NA;NA; 130589266;NA;NA;0
+H3;2009;2009;2009;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA;NA;NA;NA;NA; 409764212;NA;NA;0
+H3;2010;2010;2010;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 652850828;NA;NA;4
+H3;2010;2010;2010;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 733526204;NA;NA;4
+H3;2010;2010;2010;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 208741693;NA;NA;0
+H3;2010;2010;2010;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 703910833;NA;NA;0
+H3;2011;2011;2011;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA;1112706594;NA;NA;4
+H3;2011;2011;2011;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 890199751;NA;NA;4
+H3;2011;2011;2011;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 336850398;NA;NA;4
+H3;2011;2011;2011;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 891967402;NA;NA;4
+H4;2012;2012;2012;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA;1293709747;NA;NA;4
+H4;2012;2012;2012;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 940563644;NA;NA;4
+H4;2012;2012;2012;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 317693982;NA;NA;0
+H4;2012;2012;2012;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA;1792845768;NA;NA;4
+H4;2013;2013;2013;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA;1459053807;NA;NA;4
+H4;2013;2013;2013;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA;1209663814;NA;NA;4
+H4;2013;2013;2013;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 324730332;NA;NA;0
+H4;2013;2013;2013;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA;1250064509;NA;NA;0
+H4;2014;2014;2014;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA;1884289173;NA;NA;4
+H4;2014;2014;2014;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA;1248376851;NA;NA;4
+H4;2014;2014;2014;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 443024331;NA;NA;0
+H4;2014;2014;2014;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA;2043752572;NA;NA;4
+H4;2015;2015;2015;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA;1780155045;NA;NA;4
+H4;2015;2015;2015;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA;1039957181;NA;NA;4
+H4;2015;2015;2015;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 468906724;NA;NA;0
+H4;2015;2015;2015;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA;1102471322;NA;NA;0
+H4;2016;2016;2016;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 479933632;NA;NA;0
+H4;2016;2016;2016;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA;1007885490;NA;NA;0
+H5;2017;2017;2017;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA;2027341953;NA;NA;4
+H5;2017;2017;2017;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 744080834;NA;NA;4
+H5;2017;2017;2017;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 451917544;NA;NA;0
+H5;2017;2017;2017;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 646593117;NA;NA;0
+H5;2018;2018;2018;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA;2075383222;NA;NA;4
+H5;2018;2018;2018;0;0;1;Import;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 638659616;NA;NA;4
+H5;2018;2018;2018;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;156;China;CHN;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 459574941;NA;NA;4
+H5;2018;2018;2018;0;0;2;Export;68;Bolivia (Plurinational State of);BOL;842;USA;USA;NA;NA;NA;NA;NA;NA;NA;TOTAL;All Commodities;1;No Quantity;NA;NA; 0;NA; 0;NA; 526019695;NA;NA;0
